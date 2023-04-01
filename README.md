@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/111654925?v=4"  />
+<img align="right" height="150" src="https://ugokawaii.com/wp-content/uploads/2023/01/mamemaki-boy.gif"  />
 
 ###
 
