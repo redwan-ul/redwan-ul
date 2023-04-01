@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://ugokawaii.com/wp-content/uploads/2023/01/mamemaki-boy.gif"  />
+<img align="right" height="150" src="https://storage.googleapis.com/cdn-redwan.appspot.com/images/boy.gif"  />
 
 ###
 
@@ -45,7 +45,7 @@
 
 <br clear="both">
 
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://storage.googleapis.com/cdn-redwan.appspot.com/images/snake.svg" alt="Snake animation" />
 
 ###
 
